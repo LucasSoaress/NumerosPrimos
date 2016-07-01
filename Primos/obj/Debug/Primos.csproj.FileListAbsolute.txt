@@ -1,0 +1,6 @@
+C:\Users\Luca.Silva\Desktop\Primos\Primos\bin\Debug\Primos.exe.config
+C:\Users\Luca.Silva\Desktop\Primos\Primos\bin\Debug\Primos.exe
+C:\Users\Luca.Silva\Desktop\Primos\Primos\bin\Debug\Primos.pdb
+C:\Users\Luca.Silva\Desktop\Primos\Primos\obj\Debug\Primos.csprojResolveAssemblyReference.cache
+C:\Users\Luca.Silva\Desktop\Primos\Primos\obj\Debug\Primos.exe
+C:\Users\Luca.Silva\Desktop\Primos\Primos\obj\Debug\Primos.pdb
